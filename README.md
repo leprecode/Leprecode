@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Alexey 👋
 
-<!--
-**leprecode/Leprecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexey from Russia and I'm game developer. I really enjoy work in Unity Engine and C# as well. I also enjoy to create 3D assets for my games in Blender and Substance Painter.
 
-Here are some ideas to get you started:
+### Skills and Experience
+:fire:Unity Engine 
+<br>:desktop_computer:C#
+<br>:bulb:3D modeling and animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,unity,cs,ps,blender,idea,visualstudio,linux, bash" />
+</p>
+
+<!--![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=leprecode&theme=dark&show_icons=true)-->
+
+
+
