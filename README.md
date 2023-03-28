@@ -8,7 +8,7 @@ I'm Alexey from Russia and I'm game developer. I really enjoy work in Unity Engi
 <br>:bulb:3D modeling and animations-->
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,unity,cs,ps,blender,idea,visualstudio,linux, bash" />
+    <img src="https://skillicons.dev/icons?i=git,unity,cs,python,ps,blender,idea,visualstudio,linux, bash" />
 </p>
 
 <!--![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=leprecode&theme=dark&show_icons=true)-->
