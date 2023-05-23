@@ -1,6 +1,6 @@
 ### Hi, I'm Alexey 👋
 
-I'm Alexey from Russia and I'm game developer. I really enjoy work in Unity Engine and C# as well. I also enjoy to create 3D assets for my games in Blender and Substance Painter.
+I'm Alexey and I'm game developer. I really enjoy work in Unity Engine and C# as well. I also enjoy to create 3D assets for my games in Blender and Substance Painter.
 
 ### Skills and Experience
 <!--:fire:Unity Engine 
